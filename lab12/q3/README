@@ -1,0 +1,71 @@
+Scotland Yard
+-----------
+
+Let us consider the fun board game of Scotland Yard. There is a thief and a policeman.
+The thief has performed a robbery and wants to get safely to his den without being caught
+by the policeman while the policeman wants to catch the thief.
+
+Let us consider this as a game on an undirected graph, having two players, Thief and Policeman, who keep alternating turns. (until the game ends)
+
+The Thief starts at node 1 (where the robbery happened) and goes first
+The Policeman starts at node 2 (Police station) and goes second, 
+and the Den of the Thief is at node 0.
+
+During each player's turn, they MUST travel along one edge of the graph that originates from where they are.
+(Recall that this is an undirected graph so an edge can be traversed both ways)
+For example, if the Thief is at node 1, it must travel to any node in the adjacency list of node 1.
+
+Additionally, it is NOT allowed for the Policeman to travel to the Den (node 0) since that is a safe zone for Thief.
+
+Then, the game can end in three ways:
+
+If ever the Policeman occupies the same node as the Thief, the Policeman wins.
+If ever the Thief reaches the Den (node 0), the Thief wins.
+If ever a position is repeated (i.e., the players are in the same position as a previous turn, and it is the same player's turn to move), the game is a draw.
+Given a graph, and assuming both players play optimally (Players prefer wins over draws and draws over losing, ties being broken arbitrarily), return
+
+1 if the Thief wins the game,
+2 if the Policeman wins the game, or
+0 if the game is a draw.
+
+Representation
+The graph is represented as a vector of vectors corresponding to the adjacency list.
+Here, graph[a] is a list of all nodes b such that a-b is an edge of the graph.
+Hence, for each vertex v, we have a vector of integers corresponding to the vertices adjacent to v.
+Note that for an edge a-b, a will be present in graph[b] and b will be present in graph[a].
+The numbering of the nodes is done according to their index in graph
+For instance, graph[2] is the adjacency list of node labelled with number '2'.
+You can call function outputDotFile(graph) within main to visualise the graph.
+(Be sure to comment or remove such a call before you submit though as this is for your visualisation ONLY)
+
+Constraints
+- 3 <= graph.length <= 150
+- 1 <= graph[i].length < graph.length
+- 0 <= graph[i][j] < graph.length
+- graph[i][j] != i
+- The Thief and the Policeman CAN and MUST always move. 
+
+(For instance, if the policeman "corners" the thief, then the thief must move to where the policeman is and lose.
+This can happen if the thief is at a node of degree one and the policeman is on the immediate neighbour.)
+
+
+PLEASE READ
+The input and output handling HAVE BEEN DONE FOR YOU in main.cpp.
+All you need to do is complete function ScotlandYard(...)
+which will take graph as argument and return a single integer as described above
+
+Please do NOT write your own main function for input/output.
+
+To make your own testcases and understand the given testcases, please read the input/output format
+
+Input Format
+The first line contains number of nodes.
+For each node V, we have the number of edges K incident on V followed by K integers
+corresponding to the adjacent vertices to V. Please take a look at the provided input files.
+
+Output Format
+Output a single integer to standard output.
+
+Run make to compile your code
+Run make test to test your code on simple testcases.
+Run make clean to clean up the executables

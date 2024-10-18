@@ -1,0 +1,40 @@
+[main 745af04] new commit-Fri Sep  8 15:24:01 IST 2023
+ 5 files changed, 2021 insertions(+), 3 deletions(-)
+ create mode 100644 auto-cmmit-sep8.log
+ create mode 100644 lab06/part1/sakshamrathi_SL2-15/kmp.cpp
+ create mode 100644 logscl.log
+-e  -eHostname:sl2-15,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:15:24:01up2days,3:42,2users,loadaverage:0.92,1.03,1.05,-eDateandTime:2023-09-0815:24:01,Linuxsl2-155.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+[main 8401c46] new commit-Fri Sep  8 15:27:01 IST 2023
+ 1 file changed, 6 insertions(+), 24 deletions(-)
+ rewrite auto-cmmit-sep8.log (97%)
+-e  -eHostname:sl2-15,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:15:27:01up2days,3:45,2users,loadaverage:0.73,0.98,1.04,-eDateandTime:2023-09-0815:27:01,Linuxsl2-155.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+[main 2405f9f] new commit-Fri Sep  8 15:30:01 IST 2023
+ 1 file changed, 4 insertions(+)
+-e  -eHostname:sl2-15,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:15:30:01up2days,3:48,2users,loadaverage:0.64,0.78,0.95,-eDateandTime:2023-09-0815:30:01,Linuxsl2-155.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+[main fa7d372] new commit-Fri Sep  8 15:33:01 IST 2023
+ 2 files changed, 531 insertions(+)
+-e  -eHostname:sl2-15,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:15:33:01up2days,3:51,2users,loadaverage:0.52,0.69,0.88,-eDateandTime:2023-09-0815:33:01,Linuxsl2-155.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+[main ab27bb7] new commit-Fri Sep  8 15:36:01 IST 2023
+ 1 file changed, 3 insertions(+)
+-e  -eHostname:sl2-15,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:15:36:01up2days,3:54,2users,loadaverage:0.72,0.68,0.84,-eDateandTime:2023-09-0815:36:01,Linuxsl2-155.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+[main acd47e1] new commit-Fri Sep  8 15:39:01 IST 2023
+ 2 files changed, 267 insertions(+)
+-e  -eHostname:sl2-15,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:15:39:01up2days,3:57,2users,loadaverage:0.70,0.67,0.81,-eDateandTime:2023-09-0815:39:01,Linuxsl2-155.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+[main 0916357] new commit-Fri Sep  8 15:42:01 IST 2023
+ 2 files changed, 267 insertions(+)
+-e  -eHostname:sl2-15,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:15:42:01up2days,4:00,2users,loadaverage:0.83,0.75,0.81,-eDateandTime:2023-09-0815:42:01,Linuxsl2-155.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+[main c570929] new commit-Fri Sep  8 15:45:01 IST 2023
+ 1 file changed, 3 insertions(+)
+-e  -eHostname:sl2-15,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:15:45:01up2days,4:03,2users,loadaverage:0.48,0.61,0.75,-eDateandTime:2023-09-0815:45:01,Linuxsl2-155.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+[main ff309f9] new commit-Fri Sep  8 15:48:01 IST 2023
+ 2 files changed, 531 insertions(+)
+-e  -eHostname:sl2-15,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:15:48:01up2days,4:06,2users,loadaverage:0.74,0.70,0.76,-eDateandTime:2023-09-0815:48:01,Linuxsl2-155.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+[main 53d118b] new commit-Fri Sep  8 15:51:01 IST 2023
+ 1 file changed, 3 insertions(+)
+-e  -eHostname:sl2-15,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:15:51:01up2days,4:09,2users,loadaverage:0.62,0.64,0.72,-eDateandTime:2023-09-0815:51:01,Linuxsl2-155.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+[main 2ddcfd2] new commit-Fri Sep  8 15:54:01 IST 2023
+ 1 file changed, 3 insertions(+)
+-e  -eHostname:sl2-15,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:15:54:01up2days,4:12,2users,loadaverage:0.62,0.67,0.72,-eDateandTime:2023-09-0815:54:01,Linuxsl2-155.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+[main b729e16] new commit-Fri Sep  8 15:57:01 IST 2023
+ 2 files changed, 531 insertions(+)
+-e  -eHostname:sl2-15,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:15:57:01up2days,4:15,2users,loadaverage:0.72,0.65,0.70,-eDateandTime:2023-09-0815:57:01,Linuxsl2-155.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2

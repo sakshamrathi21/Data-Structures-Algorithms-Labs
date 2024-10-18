@@ -1,0 +1,22 @@
+CXX = g++
+CXXFLAGS = -std=c++20
+
+TARGET = rb
+SOURCES = rb.cpp
+
+all: $(SOURCES)
+	$(CXX) $(CXXFLAGS) $(SOURCES) -o $(TARGET)
+
+test:
+	$(CXX) $(CXXFLAGS) $(SOURCES) -o $(TARGET)
+	./$(TARGET) < inputs/input0.txt > output0.txt
+	./$(TARGET) < inputs/input1.txt > output1.txt
+	diff outputs/output0.txt output0.txt
+	diff outputs/output1.txt output1.txt
+
+basic:
+	$(CXX) $(CXXFLAGS) $(SOURCES) -o $(TARGET)
+	./$(TARGET)
+
+clean:
+	rm -f $(TARGET) output0.txt output1.txt

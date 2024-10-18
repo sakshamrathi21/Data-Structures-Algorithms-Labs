@@ -1,0 +1,500 @@
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+fatal: unable to access 'https://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git/': server certificate verification failed. CAfile: none CRLfile: none
+Error---Git push Failed.
+-e  -eDateandTime:2023-10-0614:06:01,-eHostname:sl3-5,-eIPAddress:127.0.0.1,-eCurrentUser:cs293labexam2,-eUptime:14:06:01up2days,16:38,2users,loadaverage:0.18,0.17,0.08,Linuxsl3-55.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 392b4d9] new commit-Fri Oct  6 14:09:01 IST 2023
+ 2 files changed, 10 insertions(+)
+ create mode 100644 auto-cmmit-oct06.log
+fatal: unable to access 'https://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git/': server certificate verification failed. CAfile: none CRLfile: none
+Error---Git push Failed.
+-e  -eDateandTime:2023-10-0614:09:01,-eHostname:sl3-5,-eIPAddress:127.0.0.1,-eCurrentUser:cs293labexam2,-eUptime:14:09:01up2days,16:41,2users,loadaverage:0.20,0.14,0.09,Linuxsl3-55.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 669aa7b] new commit-Fri Oct  6 14:12:02 IST 2023
+ 4 files changed, 12 insertions(+), 1 deletion(-)
+ create mode 100644 logsk.log
+fatal: unable to access 'https://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git/': server certificate verification failed. CAfile: none CRLfile: none
+Error---Git push Failed.
+-e  -eDateandTime:2023-10-0614:12:01,-eHostname:sl3-5,-eIPAddress:127.0.0.1,-eCurrentUser:cs293labexam2,-eUptime:14:12:01up2days,16:44,2users,loadaverage:0.06,0.14,0.09,Linuxsl3-55.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 45bddf3] new commit-Fri Oct  6 14:15:01 IST 2023
+ 2 files changed, 9 insertions(+)
+fatal: unable to access 'https://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git/': server certificate verification failed. CAfile: none CRLfile: none
+Error---Git push Failed.
+-e  -eDateandTime:2023-10-0614:15:01,-eHostname:sl3-5,-eIPAddress:127.0.0.1,-eCurrentUser:cs293labexam2,-eUptime:14:15:01up2days,16:47,2users,loadaverage:0.06,0.11,0.09,Linuxsl3-55.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 0e66dd6] new commit-Fri Oct  6 14:18:01 IST 2023
+ 2 files changed, 7 insertions(+)
+fatal: unable to access 'https://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git/': server certificate verification failed. CAfile: none CRLfile: none
+Error---Git push Failed.
+-e  -eDateandTime:2023-10-0614:18:01,-eHostname:sl3-5,-eIPAddress:127.0.0.1,-eCurrentUser:cs293labexam2,-eUptime:14:18:01up2days,16:50,2users,loadaverage:0.59,0.31,0.16,Linuxsl3-55.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 526b537] new commit-Fri Oct  6 14:21:01 IST 2023
+ 4 files changed, 12 insertions(+), 1 deletion(-)
+fatal: unable to access 'https://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git/': server certificate verification failed. CAfile: none CRLfile: none
+Error---Git push Failed.
+-e  -eDateandTime:2023-10-0614:21:01,-eHostname:sl3-5,-eIPAddress:127.0.0.1,-eCurrentUser:cs293labexam2,-eUptime:14:21:01up2days,16:53,2users,loadaverage:0.12,0.20,0.14,Linuxsl3-55.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main cc76b44] new commit-Fri Oct  6 14:24:01 IST 2023
+ 4 files changed, 21 insertions(+), 2 deletions(-)
+fatal: unable to access 'https://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git/': server certificate verification failed. CAfile: none CRLfile: none
+Error---Git push Failed.
+-e  -eDateandTime:2023-10-0614:24:01,-eHostname:sl3-5,-eIPAddress:127.0.0.1,-eCurrentUser:cs293labexam2,-eUptime:14:24:01up2days,16:56,2users,loadaverage:0.19,0.22,0.16,Linuxsl3-55.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 424f05e] new commit-Fri Oct  6 14:27:01 IST 2023
+ 4 files changed, 28 insertions(+), 2 deletions(-)
+fatal: unable to access 'https://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git/': server certificate verification failed. CAfile: none CRLfile: none
+Error---Git push Failed.
+-e  -eDateandTime:2023-10-0614:27:01,-eHostname:sl3-5,-eIPAddress:127.0.0.1,-eCurrentUser:cs293labexam2,-eUptime:14:27:01up2days,16:59,2users,loadaverage:0.19,0.23,0.17,Linuxsl3-55.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main cb5b993] new commit-Fri Oct  6 14:30:01 IST 2023
+ 4 files changed, 24 insertions(+), 3 deletions(-)
+fatal: unable to access 'https://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git/': server certificate verification failed. CAfile: none CRLfile: none
+Error---Git push Failed.
+-e  -eDateandTime:2023-10-0614:30:01,-eHostname:sl3-5,-eIPAddress:127.0.0.1,-eCurrentUser:cs293labexam2,-eUptime:14:30:01up2days,17:02,2users,loadaverage:0.55,0.35,0.22,Linuxsl3-55.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main b4dbe9b] new commit-Fri Oct  6 14:33:01 IST 2023
+ 4 files changed, 27 insertions(+), 1 deletion(-)
+fatal: unable to access 'https://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git/': server certificate verification failed. CAfile: none CRLfile: none
+Error---Git push Failed.
+-e  -eDateandTime:2023-10-0614:33:01,-eHostname:sl3-5,-eIPAddress:127.0.0.1,-eCurrentUser:cs293labexam2,-eUptime:14:33:01up2days,17:05,2users,loadaverage:0.29,0.33,0.24,Linuxsl3-55.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 8669611] new commit-Fri Oct  6 14:36:01 IST 2023
+ 4 files changed, 21 insertions(+), 1 deletion(-)
+fatal: unable to access 'https://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git/': server certificate verification failed. CAfile: none CRLfile: none
+Error---Git push Failed.
+-e  -eDateandTime:2023-10-0614:36:01,-eHostname:sl3-5,-eIPAddress:127.0.0.1,-eCurrentUser:cs293labexam2,-eUptime:14:36:01up2days,17:08,2users,loadaverage:0.36,0.31,0.24,Linuxsl3-55.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 5e88bab] new commit-Fri Oct  6 14:39:01 IST 2023
+ 4 files changed, 21 insertions(+), 2 deletions(-)
+fatal: unable to access 'https://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git/': server certificate verification failed. CAfile: none CRLfile: none
+Error---Git push Failed.
+-e  -eDateandTime:2023-10-0614:39:01,-eHostname:sl3-5,-eIPAddress:127.0.0.1,-eCurrentUser:cs293labexam2,-eUptime:14:39:01up2days,17:11,2users,loadaverage:0.03,0.19,0.20,Linuxsl3-55.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 81e35c5] new commit-Fri Oct  6 14:42:01 IST 2023
+ 4 files changed, 14 insertions(+), 16 deletions(-)
+fatal: unable to access 'https://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git/': server certificate verification failed. CAfile: none CRLfile: none
+Error---Git push Failed.
+-e  -eDateandTime:2023-10-0614:42:01,-eHostname:sl3-5,-eIPAddress:127.0.0.1,-eCurrentUser:cs293labexam2,-eUptime:14:42:01up2days,17:14,2users,loadaverage:0.44,0.30,0.23,Linuxsl3-55.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main eef279f] new commit-Fri Oct  6 14:45:01 IST 2023
+ 4 files changed, 27 insertions(+), 3 deletions(-)
+fatal: unable to access 'https://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git/': server certificate verification failed. CAfile: none CRLfile: none
+Error---Git push Failed.
+-e  -eDateandTime:2023-10-0614:45:01,-eHostname:sl3-5,-eIPAddress:127.0.0.1,-eCurrentUser:cs293labexam2,-eUptime:14:45:01up2days,17:17,2users,loadaverage:0.37,0.34,0.26,Linuxsl3-55.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 119f013] new commit-Fri Oct  6 14:48:01 IST 2023
+ 4 files changed, 10 insertions(+), 2 deletions(-)
+fatal: unable to access 'https://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git/': server certificate verification failed. CAfile: none CRLfile: none
+Error---Git push Failed.
+-e  -eDateandTime:2023-10-0614:48:01,-eHostname:sl3-5,-eIPAddress:127.0.0.1,-eCurrentUser:cs293labexam2,-eUptime:14:48:01up2days,17:20,2users,loadaverage:0.13,0.27,0.25,Linuxsl3-55.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 04f0369] new commit-Fri Oct  6 14:51:01 IST 2023
+ 130 files changed, 14 insertions(+), 1 deletion(-)
+ mode change 100644 => 100755 .gitlab-ci.yml
+ mode change 100644 => 100755 README.md
+ mode change 100644 => 100755 auto-cmmit-oct06.log
+ mode change 100644 => 100755 auto-cmmit-sep15.log
+ mode change 100644 => 100755 auto-cmmit-sep29.log
+ mode change 100644 => 100755 auto-cmmit-sep8.log
+ mode change 100644 => 100755 auto-cmmit.log
+ mode change 100644 => 100755 lab04/README
+ mode change 100644 => 100755 lab04/part1/Makefile
+ mode change 100644 => 100755 lab04/part1/README
+ mode change 100644 => 100755 lab04/part1/bst.cpp
+ mode change 100644 => 100755 lab04/part1/bst.h
+ mode change 100644 => 100755 lab04/part1/isbst.cpp
+ mode change 100644 => 100755 lab04/part1/main.cpp
+ mode change 100644 => 100755 lab04/part1/results.txt
+ mode change 100644 => 100755 lab04/part1/rotate.cpp
+ mode change 100644 => 100755 lab04/part1/testCorrectBST/expectedRotate.txt
+ mode change 100644 => 100755 lab04/part1/testCorrectBST/test0.ser
+ mode change 100644 => 100755 lab04/part1/testCorrectBST/test1.ser
+ mode change 100644 => 100755 lab04/part1/testCorrectBST/test2.ser
+ mode change 100644 => 100755 lab04/part1/testCorrectBST/test3.ser
+ mode change 100644 => 100755 lab04/part1/testCorrectBST/test4.ser
+ mode change 100644 => 100755 lab04/part1/testCorrectBST/test5.ser
+ mode change 100644 => 100755 lab04/part1/testCorrectBST/test6.ser
+ mode change 100644 => 100755 lab04/part1/testCorrectBST/test7.ser
+ mode change 100644 => 100755 lab04/part1/testCorrectBST/test8.ser
+ mode change 100644 => 100755 lab04/part1/testCorrectBST/test9.ser
+ mode change 100644 => 100755 lab04/part1/testWrongBST/test0.ser
+ mode change 100644 => 100755 lab04/part1/testWrongBST/test1.ser
+ mode change 100644 => 100755 lab04/part1/testWrongBST/test2.ser
+ mode change 100644 => 100755 lab04/part1/testWrongBST/test3.ser
+ mode change 100644 => 100755 lab04/part1/testWrongBST/test4.ser
+ mode change 100644 => 100755 lab04/part2/Makefile
+ mode change 100644 => 100755 lab04/part2/README
+ mode change 100644 => 100755 lab04/part2/expected.txt
+ mode change 100644 => 100755 lab04/part2/long.cpp
+ mode change 100644 => 100755 lab04/part2/results.txt
+ mode change 100644 => 100755 lab06/README
+ mode change 100644 => 100755 lab06/part1/Makefile
+ mode change 100644 => 100755 lab06/part1/inputs/input0.txt
+ mode change 100644 => 100755 lab06/part1/kmp.cpp
+ mode change 100644 => 100755 lab06/part1/main.cpp
+ mode change 100644 => 100755 lab06/part1/outputs/output0.txt
+ mode change 100644 => 100755 lab06/part1/sakshamrathi_SL2-15/kmp.cpp
+ mode change 100644 => 100755 lab06/part2/Makefile
+ mode change 100644 => 100755 lab06/part2/inputs/input0.txt
+ mode change 100644 => 100755 lab06/part2/inputs/input1.txt
+ mode change 100644 => 100755 lab06/part2/main.cpp
+ mode change 100644 => 100755 lab06/part2/outputs/output0.txt
+ mode change 100644 => 100755 lab06/part2/outputs/output1.txt
+ mode change 100644 => 100755 lab06/part2/trie.cpp
+ mode change 100644 => 100755 lab06/part2/trie.h
+ mode change 100644 => 100755 lab06/part3/Makefile
+ mode change 100644 => 100755 lab06/part3/inputs/input0.txt
+ mode change 100644 => 100755 lab06/part3/inputs/input1.txt
+ mode change 100644 => 100755 lab06/part3/kmp.cpp
+ mode change 100644 => 100755 lab06/part3/lorem.txt
+ mode change 100644 => 100755 lab06/part3/main.cpp
+ mode change 100644 => 100755 lab06/part3/outputs/output0.txt
+ mode change 100644 => 100755 lab06/part3/outputs/output1.txt
+ mode change 100644 => 100755 lab06/part3/trie.cpp
+ mode change 100644 => 100755 lab06/part3/trie.h
+ mode change 100644 => 100755 lab08/Makefile
+ mode change 100644 => 100755 lab08/README
+ mode change 100644 => 100755 lab08/constants.h
+ mode change 100644 => 100755 lab08/huffman-tree.cpp
+ mode change 100644 => 100755 lab08/huffman-zip.cpp
+ mode change 100644 => 100755 lab08/inputs/part1.txt
+ mode change 100644 => 100755 lab08/inputs/part2.txt
+ mode change 100644 => 100755 lab08/inputs/part3.txt
+ mode change 100644 => 100755 lab08/lz77.cpp
+ mode change 100644 => 100755 lab08/main.cpp
+ mode change 100644 => 100755 lab08/random.txt
+ mode change 100644 => 100755 lab08/rle.cpp
+ mode change 100644 => 100755 lab08/rle.h
+ mode change 100644 => 100755 lab09/README
+ mode change 100644 => 100755 lab09/q1/Makefile
+ mode change 100644 => 100755 lab09/q1/README
+ mode change 100644 => 100755 lab09/q1/expectedOutput/outputs.txt
+ mode change 100644 => 100755 lab09/q1/findlca.cpp
+ mode change 100644 => 100755 lab09/q1/main.cpp
+ mode change 100644 => 100755 lab09/q1/testLCA/keys0.txt
+ mode change 100644 => 100755 lab09/q1/testLCA/keys1.txt
+ mode change 100644 => 100755 lab09/q1/testLCA/keys2.txt
+ mode change 100644 => 100755 lab09/q1/testLCA/keys3.txt
+ mode change 100644 => 100755 lab09/q1/testLCA/keys4.txt
+ mode change 100644 => 100755 lab09/q1/testLCA/keys5.txt
+ mode change 100644 => 100755 lab09/q1/testLCA/keys6.txt
+ mode change 100644 => 100755 lab09/q1/testLCA/keys7.txt
+ mode change 100644 => 100755 lab09/q1/testLCA/keys8.txt
+ mode change 100644 => 100755 lab09/q1/testLCA/keys9.txt
+ mode change 100644 => 100755 lab09/q1/testLCA/tree0.txt
+ mode change 100644 => 100755 lab09/q1/testLCA/tree1.txt
+ mode change 100644 => 100755 lab09/q1/testLCA/tree2.txt
+ mode change 100644 => 100755 lab09/q1/testLCA/tree3.txt
+ mode change 100644 => 100755 lab09/q1/testLCA/tree4.txt
+ mode change 100644 => 100755 lab09/q1/testLCA/tree5.txt
+ mode change 100644 => 100755 lab09/q1/testLCA/tree6.txt
+ mode change 100644 => 100755 lab09/q1/testLCA/tree7.txt
+ mode change 100644 => 100755 lab09/q1/testLCA/tree8.txt
+ mode change 100644 => 100755 lab09/q1/testLCA/tree9.txt
+ mode change 100644 => 100755 lab09/q1/tree.cpp
+ mode change 100644 => 100755 lab09/q1/tree.h
+ mode change 100644 => 100755 lab09/q2/Makefile
+ mode change 100644 => 100755 lab09/q2/README
+ mode change 100644 => 100755 lab09/q2/hsort.cpp
+ mode change 100644 => 100755 lab09/q2/inputs/input1.txt
+ mode change 100644 => 100755 lab09/q2/inputs/input2.txt
+ mode change 100644 => 100755 lab09/q2/inputs/input3.txt
+ mode change 100644 => 100755 lab09/q2/introsort.cpp
+ mode change 100644 => 100755 lab09/q2/isort.cpp
+ mode change 100644 => 100755 lab09/q2/main.cpp
+ mode change 100644 => 100755 lab09/q2/outputs/output1.txt
+ mode change 100644 => 100755 lab09/q2/outputs/output2.txt
+ mode change 100644 => 100755 lab09/q2/outputs/output3.txt
+ mode change 100644 => 100755 lab09/q2/partition.cpp
+ mode change 100644 => 100755 lab09/q2/random.cpp
+ mode change 100644 => 100755 lab09/q3/Makefile
+ mode change 100644 => 100755 lab09/q3/README
+ mode change 100644 => 100755 lab09/q3/inputs/input1.txt
+ mode change 100644 => 100755 lab09/q3/inputs/input2.txt
+ mode change 100644 => 100755 lab09/q3/inputs/input3.txt
+ mode change 100644 => 100755 lab09/q3/main.cpp
+ mode change 100644 => 100755 lab09/q3/outputs/output1.txt
+ mode change 100644 => 100755 lab09/q3/outputs/output2.txt
+ mode change 100644 => 100755 lab09/q3/outputs/output3.txt
+ mode change 100644 => 100755 lab09/q3/ropes.cpp
+ mode change 100644 => 100755 logscl.log
+ mode change 100644 => 100755 logsk.log
+ mode change 100644 => 100755 pinfo.txt
+fatal: unable to access 'https://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git/': server certificate verification failed. CAfile: none CRLfile: none
+Error---Git push Failed.
+-e  -eDateandTime:2023-10-0614:51:01,-eHostname:sl3-5,-eIPAddress:127.0.0.1,-eCurrentUser:cs293labexam2,-eUptime:14:51:01up2days,17:23,2users,loadaverage:0.98,0.70,0.42,Linuxsl3-55.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main c69d781] new commit-Fri Oct  6 14:54:01 IST 2023
+ 4 files changed, 141 insertions(+), 2 deletions(-)
+fatal: unable to access 'https://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git/': server certificate verification failed. CAfile: none CRLfile: none
+Error---Git push Failed.
+-e  -eDateandTime:2023-10-0614:54:01,-eHostname:sl3-5,-eIPAddress:127.0.0.1,-eCurrentUser:cs293labexam2,-eUptime:14:54:01up2days,17:26,2users,loadaverage:0.49,0.66,0.46,Linuxsl3-55.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 081cae8] new commit-Fri Oct  6 14:57:01 IST 2023
+ 4 files changed, 11 insertions(+), 2 deletions(-)
+fatal: unable to access 'https://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git/': server certificate verification failed. CAfile: none CRLfile: none
+Error---Git push Failed.
+-e  -eDateandTime:2023-10-0614:57:01,-eHostname:sl3-5,-eIPAddress:127.0.0.1,-eCurrentUser:cs293labexam2,-eUptime:14:57:01up2days,17:29,2users,loadaverage:0.43,0.51,0.43,Linuxsl3-55.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 76393a4] new commit-Fri Oct  6 15:00:01 IST 2023
+ 4 files changed, 9 insertions(+), 2 deletions(-)
+fatal: unable to access 'https://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git/': server certificate verification failed. CAfile: none CRLfile: none
+Error---Git push Failed.
+-e  -eDateandTime:2023-10-0615:00:01,-eHostname:sl3-5,-eIPAddress:127.0.0.1,-eCurrentUser:cs293labexam2,-eUptime:15:00:01up2days,17:32,2users,loadaverage:0.42,0.49,0.44,Linuxsl3-55.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 30ebd6a] new commit-Fri Oct  6 15:03:01 IST 2023
+ 4 files changed, 10 insertions(+), 2 deletions(-)
+fatal: unable to access 'https://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git/': server certificate verification failed. CAfile: none CRLfile: none
+Error---Git push Failed.
+-e  -eDateandTime:2023-10-0615:03:01,-eHostname:sl3-5,-eIPAddress:127.0.0.1,-eCurrentUser:cs293labexam2,-eUptime:15:03:01up2days,17:35,2users,loadaverage:0.18,0.44,0.43,Linuxsl3-55.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 549333e] new commit-Fri Oct  6 15:06:01 IST 2023
+ 2 files changed, 21 insertions(+)
+fatal: unable to access 'https://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git/': server certificate verification failed. CAfile: none CRLfile: none
+Error---Git push Failed.
+-e  -eDateandTime:2023-10-0615:06:01,-eHostname:sl3-5,-eIPAddress:127.0.0.1,-eCurrentUser:cs293labexam2,-eUptime:15:06:01up2days,17:38,2users,loadaverage:0.03,0.26,0.36,Linuxsl3-55.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 5ae49fe] new commit-Fri Oct  6 15:09:01 IST 2023
+ 4 files changed, 33 insertions(+), 4 deletions(-)
+fatal: unable to access 'https://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git/': server certificate verification failed. CAfile: none CRLfile: none
+Error---Git push Failed.
+-e  -eDateandTime:2023-10-0615:09:01,-eHostname:sl3-5,-eIPAddress:127.0.0.1,-eCurrentUser:cs293labexam2,-eUptime:15:09:01up2days,17:41,2users,loadaverage:0.46,0.34,0.37,Linuxsl3-55.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 45c2f4f] new commit-Fri Oct  6 15:12:01 IST 2023
+ 4 files changed, 21 insertions(+), 4 deletions(-)
+fatal: unable to access 'https://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git/': server certificate verification failed. CAfile: none CRLfile: none
+Error---Git push Failed.
+-e  -eDateandTime:2023-10-0615:12:01,-eHostname:sl3-5,-eIPAddress:127.0.0.1,-eCurrentUser:cs293labexam2,-eUptime:15:12:01up2days,17:44,2users,loadaverage:0.65,0.47,0.41,Linuxsl3-55.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main ead13d3] new commit-Fri Oct  6 15:15:01 IST 2023
+ 4 files changed, 15 insertions(+), 2 deletions(-)
+fatal: unable to access 'https://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git/': server certificate verification failed. CAfile: none CRLfile: none
+Error---Git push Failed.
+-e  -eDateandTime:2023-10-0615:15:01,-eHostname:sl3-5,-eIPAddress:127.0.0.1,-eCurrentUser:cs293labexam2,-eUptime:15:15:01up2days,17:47,2users,loadaverage:0.15,0.32,0.36,Linuxsl3-55.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 2339335] new commit-Fri Oct  6 15:18:01 IST 2023
+ 4 files changed, 9 insertions(+), 2 deletions(-)
+fatal: unable to access 'https://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git/': server certificate verification failed. CAfile: none CRLfile: none
+Error---Git push Failed.
+-e  -eDateandTime:2023-10-0615:18:01,-eHostname:sl3-5,-eIPAddress:127.0.0.1,-eCurrentUser:cs293labexam2,-eUptime:15:18:01up2days,17:50,2users,loadaverage:0.20,0.28,0.33,Linuxsl3-55.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 91e0aea] new commit-Fri Oct  6 15:21:01 IST 2023
+ 4 files changed, 15 insertions(+), 2 deletions(-)
+fatal: unable to access 'https://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git/': server certificate verification failed. CAfile: none CRLfile: none
+Error---Git push Failed.
+-e  -eDateandTime:2023-10-0615:21:01,-eHostname:sl3-5,-eIPAddress:127.0.0.1,-eCurrentUser:cs293labexam2,-eUptime:15:21:01up2days,17:53,2users,loadaverage:0.32,0.25,0.30,Linuxsl3-55.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main f193b02] new commit-Fri Oct  6 15:24:01 IST 2023
+ 3 files changed, 8 insertions(+), 1 deletion(-)
+fatal: unable to access 'https://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git/': server certificate verification failed. CAfile: none CRLfile: none
+Error---Git push Failed.
+-e  -eDateandTime:2023-10-0615:24:01,-eHostname:sl3-5,-eIPAddress:127.0.0.1,-eCurrentUser:cs293labexam2,-eUptime:15:24:01up2days,17:56,2users,loadaverage:0.05,0.16,0.26,Linuxsl3-55.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 90ed8a1] new commit-Fri Oct  6 15:27:01 IST 2023
+ 2 files changed, 8 insertions(+)
+fatal: unable to access 'https://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git/': server certificate verification failed. CAfile: none CRLfile: none
+Error---Git push Failed.
+-e  -eDateandTime:2023-10-0615:27:01,-eHostname:sl3-5,-eIPAddress:127.0.0.1,-eCurrentUser:cs293labexam2,-eUptime:15:27:01up2days,17:59,2users,loadaverage:0.21,0.18,0.25,Linuxsl3-55.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 0ffa255] new commit-Fri Oct  6 15:30:01 IST 2023
+ 3 files changed, 8 insertions(+)
+fatal: unable to access 'https://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git/': server certificate verification failed. CAfile: none CRLfile: none
+Error---Git push Failed.
+-e  -eDateandTime:2023-10-0615:30:01,-eHostname:sl3-5,-eIPAddress:127.0.0.1,-eCurrentUser:cs293labexam2,-eUptime:15:30:01up2days,18:02,2users,loadaverage:0.18,0.23,0.26,Linuxsl3-55.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main ca35d9e] new commit-Fri Oct  6 15:33:02 IST 2023
+ 5 files changed, 92 insertions(+), 5 deletions(-)
+fatal: unable to access 'https://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git/': server certificate verification failed. CAfile: none CRLfile: none
+Error---Git push Failed.
+-e  -eDateandTime:2023-10-0615:33:02,-eHostname:sl3-5,-eIPAddress:127.0.0.1,-eCurrentUser:cs293labexam2,-eUptime:15:33:02up2days,18:05,2users,loadaverage:0.31,0.29,0.27,Linuxsl3-55.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main d713501] new commit-Fri Oct  6 15:36:01 IST 2023
+ 4 files changed, 94 insertions(+), 5 deletions(-)
+fatal: unable to access 'https://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git/': server certificate verification failed. CAfile: none CRLfile: none
+Error---Git push Failed.
+-e  -eDateandTime:2023-10-0615:36:01,-eHostname:sl3-5,-eIPAddress:127.0.0.1,-eCurrentUser:cs293labexam2,-eUptime:15:36:01up2days,18:08,2users,loadaverage:0.42,0.30,0.28,Linuxsl3-55.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main fece75d] new commit-Fri Oct  6 15:39:01 IST 2023
+ 4 files changed, 15 insertions(+), 4 deletions(-)
+fatal: unable to access 'https://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git/': server certificate verification failed. CAfile: none CRLfile: none
+Error---Git push Failed.
+-e  -eDateandTime:2023-10-0615:39:01,-eHostname:sl3-5,-eIPAddress:127.0.0.1,-eCurrentUser:cs293labexam2,-eUptime:15:39:01up2days,18:11,2users,loadaverage:0.44,0.37,0.30,Linuxsl3-55.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 2f85a00] new commit-Fri Oct  6 15:42:01 IST 2023
+ 5 files changed, 11 insertions(+), 12 deletions(-)
+fatal: unable to access 'https://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git/': server certificate verification failed. CAfile: none CRLfile: none
+Error---Git push Failed.
+-e  -eDateandTime:2023-10-0615:42:01,-eHostname:sl3-5,-eIPAddress:127.0.0.1,-eCurrentUser:cs293labexam2,-eUptime:15:42:01up2days,18:14,2users,loadaverage:0.60,0.37,0.30,Linuxsl3-55.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 347cf99] new commit-Fri Oct  6 15:45:01 IST 2023
+ 4 files changed, 33 insertions(+), 4 deletions(-)
+fatal: unable to access 'https://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git/': server certificate verification failed. CAfile: none CRLfile: none
+Error---Git push Failed.
+-e  -eDateandTime:2023-10-0615:45:01,-eHostname:sl3-5,-eIPAddress:127.0.0.1,-eCurrentUser:cs293labexam2,-eUptime:15:45:01up2days,18:17,2users,loadaverage:0.22,0.32,0.29,Linuxsl3-55.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main f1da36d] new commit-Fri Oct  6 15:48:01 IST 2023
+ 4 files changed, 19 insertions(+), 24 deletions(-)
+fatal: unable to access 'https://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git/': server certificate verification failed. CAfile: none CRLfile: none
+Error---Git push Failed.
+-e  -eDateandTime:2023-10-0615:48:01,-eHostname:sl3-5,-eIPAddress:127.0.0.1,-eCurrentUser:cs293labexam2,-eUptime:15:48:01up2days,18:20,2users,loadaverage:0.21,0.30,0.29,Linuxsl3-55.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main be2e359] new commit-Fri Oct  6 15:51:01 IST 2023
+ 4 files changed, 45 insertions(+), 10 deletions(-)
+fatal: unable to access 'https://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git/': server certificate verification failed. CAfile: none CRLfile: none
+Error---Git push Failed.
+-e  -eDateandTime:2023-10-0615:51:01,-eHostname:sl3-5,-eIPAddress:127.0.0.1,-eCurrentUser:cs293labexam2,-eUptime:15:51:01up2days,18:23,2users,loadaverage:0.33,0.29,0.28,Linuxsl3-55.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 6681d3c] new commit-Fri Oct  6 15:54:01 IST 2023
+ 4 files changed, 17 insertions(+), 5 deletions(-)
+fatal: unable to access 'https://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git/': server certificate verification failed. CAfile: none CRLfile: none
+Error---Git push Failed.
+-e  -eDateandTime:2023-10-0615:54:01,-eHostname:sl3-5,-eIPAddress:127.0.0.1,-eCurrentUser:cs293labexam2,-eUptime:15:54:01up2days,18:26,2users,loadaverage:0.30,0.35,0.30,Linuxsl3-55.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main c2424d3] new commit-Fri Oct  6 15:57:01 IST 2023
+ 4 files changed, 26 insertions(+), 3 deletions(-)
+fatal: unable to access 'https://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git/': server certificate verification failed. CAfile: none CRLfile: none
+Error---Git push Failed.
+-e  -eDateandTime:2023-10-0615:57:01,-eHostname:sl3-5,-eIPAddress:127.0.0.1,-eCurrentUser:cs293labexam2,-eUptime:15:57:01up2days,18:29,2users,loadaverage:0.59,0.39,0.31,Linuxsl3-55.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 4a88c81] new commit-Fri Oct  6 16:00:01 IST 2023
+ 4 files changed, 19 insertions(+), 21 deletions(-)
+fatal: unable to access 'https://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git/': server certificate verification failed. CAfile: none CRLfile: none
+Error---Git push Failed.
+-e  -eDateandTime:2023-10-0616:00:01,-eHostname:sl3-5,-eIPAddress:127.0.0.1,-eCurrentUser:cs293labexam2,-eUptime:16:00:01up2days,18:32,2users,loadaverage:0.55,0.48,0.36,Linuxsl3-55.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main eee3634] new commit-Fri Oct  6 16:03:01 IST 2023
+ 4 files changed, 26 insertions(+), 1 deletion(-)
+fatal: unable to access 'https://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git/': server certificate verification failed. CAfile: none CRLfile: none
+Error---Git push Failed.
+-e  -eDateandTime:2023-10-0616:03:01,-eHostname:sl3-5,-eIPAddress:127.0.0.1,-eCurrentUser:cs293labexam2,-eUptime:16:03:01up2days,18:35,2users,loadaverage:0.23,0.38,0.35,Linuxsl3-55.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main ea365ae] new commit-Fri Oct  6 16:06:01 IST 2023
+ 4 files changed, 15 insertions(+), 5 deletions(-)
+fatal: unable to access 'https://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git/': server certificate verification failed. CAfile: none CRLfile: none
+Error---Git push Failed.
+-e  -eDateandTime:2023-10-0616:06:01,-eHostname:sl3-5,-eIPAddress:127.0.0.1,-eCurrentUser:cs293labexam2,-eUptime:16:06:01up2days,18:38,2users,loadaverage:0.12,0.27,0.31,Linuxsl3-55.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main d1812e0] new commit-Fri Oct  6 16:09:01 IST 2023
+ 4 files changed, 21 insertions(+), 2 deletions(-)
+fatal: unable to access 'https://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git/': server certificate verification failed. CAfile: none CRLfile: none
+Error---Git push Failed.
+-e  -eDateandTime:2023-10-0616:09:01,-eHostname:sl3-5,-eIPAddress:127.0.0.1,-eCurrentUser:cs293labexam2,-eUptime:16:09:01up2days,18:41,2users,loadaverage:0.22,0.27,0.31,Linuxsl3-55.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main dbd9d96] new commit-Fri Oct  6 16:12:01 IST 2023
+ 5 files changed, 19 insertions(+), 22 deletions(-)
+fatal: unable to access 'https://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git/': server certificate verification failed. CAfile: none CRLfile: none
+Error---Git push Failed.
+-e  -eDateandTime:2023-10-0616:12:01,-eHostname:sl3-5,-eIPAddress:127.0.0.1,-eCurrentUser:cs293labexam2,-eUptime:16:12:01up2days,18:44,2users,loadaverage:0.81,0.51,0.39,Linuxsl3-55.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main e018d8e] new commit-Fri Oct  6 16:15:01 IST 2023
+ 4 files changed, 30 insertions(+), 6 deletions(-)
+fatal: unable to access 'https://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git/': server certificate verification failed. CAfile: none CRLfile: none
+Error---Git push Failed.
+-e  -eDateandTime:2023-10-0616:15:01,-eHostname:sl3-5,-eIPAddress:127.0.0.1,-eCurrentUser:cs293labexam2,-eUptime:16:15:01up2days,18:47,2users,loadaverage:0.24,0.40,0.37,Linuxsl3-55.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main bfd96b1] new commit-Fri Oct  6 16:18:01 IST 2023
+ 4 files changed, 19 insertions(+), 3 deletions(-)
+fatal: unable to access 'https://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git/': server certificate verification failed. CAfile: none CRLfile: none
+Error---Git push Failed.
+-e  -eDateandTime:2023-10-0616:18:01,-eHostname:sl3-5,-eIPAddress:127.0.0.1,-eCurrentUser:cs293labexam2,-eUptime:16:18:01up2days,18:50,2users,loadaverage:0.69,0.53,0.42,Linuxsl3-55.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 841fc87] new commit-Fri Oct  6 16:21:01 IST 2023
+ 4 files changed, 14 insertions(+), 12 deletions(-)
+fatal: unable to access 'https://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git/': server certificate verification failed. CAfile: none CRLfile: none
+Error---Git push Failed.
+-e  -eDateandTime:2023-10-0616:21:01,-eHostname:sl3-5,-eIPAddress:127.0.0.1,-eCurrentUser:cs293labexam2,-eUptime:16:21:01up2days,18:53,2users,loadaverage:0.33,0.43,0.39,Linuxsl3-55.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 6b48362] new commit-Fri Oct  6 16:24:01 IST 2023
+ 4 files changed, 11 insertions(+), 4 deletions(-)
+fatal: unable to access 'https://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git/': server certificate verification failed. CAfile: none CRLfile: none
+Error---Git push Failed.
+-e  -eDateandTime:2023-10-0616:24:01,-eHostname:sl3-5,-eIPAddress:127.0.0.1,-eCurrentUser:cs293labexam2,-eUptime:16:24:01up2days,18:56,2users,loadaverage:0.59,0.49,0.41,Linuxsl3-55.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 46d8435] new commit-Fri Oct  6 16:27:01 IST 2023
+ 4 files changed, 20 insertions(+), 4 deletions(-)
+fatal: unable to access 'https://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git/': server certificate verification failed. CAfile: none CRLfile: none
+Error---Git push Failed.
+-e  -eDateandTime:2023-10-0616:27:01,-eHostname:sl3-5,-eIPAddress:127.0.0.1,-eCurrentUser:cs293labexam2,-eUptime:16:27:01up2days,18:59,2users,loadaverage:0.76,0.61,0.47,Linuxsl3-55.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 834b746] new commit-Fri Oct  6 16:30:01 IST 2023
+ 4 files changed, 9 insertions(+), 1 deletion(-)
+fatal: unable to access 'https://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git/': server certificate verification failed. CAfile: none CRLfile: none
+Error---Git push Failed.
+-e  -eDateandTime:2023-10-0616:30:01,-eHostname:sl3-5,-eIPAddress:127.0.0.1,-eCurrentUser:cs293labexam2,-eUptime:16:30:01up2days,19:02,2users,loadaverage:0.25,0.49,0.45,Linuxsl3-55.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 0d0253a] new commit-Fri Oct  6 16:33:01 IST 2023
+ 2 files changed, 8 insertions(+)
+fatal: unable to access 'https://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git/': server certificate verification failed. CAfile: none CRLfile: none
+Error---Git push Failed.
+-e  -eDateandTime:2023-10-0616:33:01,-eHostname:sl3-5,-eIPAddress:127.0.0.1,-eCurrentUser:cs293labexam2,-eUptime:16:33:01up2days,19:05,2users,loadaverage:0.62,0.46,0.44,Linuxsl3-55.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 303760e] new commit-Fri Oct  6 16:36:01 IST 2023
+ 5 files changed, 21 insertions(+), 15 deletions(-)
+fatal: unable to access 'https://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git/': server certificate verification failed. CAfile: none CRLfile: none
+Error---Git push Failed.
+-e  -eDateandTime:2023-10-0616:36:01,-eHostname:sl3-5,-eIPAddress:127.0.0.1,-eCurrentUser:cs293labexam2,-eUptime:16:36:01up2days,19:08,2users,loadaverage:0.33,0.38,0.41,Linuxsl3-55.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 33ebc24] new commit-Fri Oct  6 16:39:01 IST 2023
+ 4 files changed, 35 insertions(+), 5 deletions(-)
+fatal: unable to access 'https://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git/': server certificate verification failed. CAfile: none CRLfile: none
+Error---Git push Failed.
+-e  -eDateandTime:2023-10-0616:39:01,-eHostname:sl3-5,-eIPAddress:127.0.0.1,-eCurrentUser:cs293labexam2,-eUptime:16:39:01up2days,19:11,2users,loadaverage:0.20,0.34,0.39,Linuxsl3-55.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 372038a] new commit-Fri Oct  6 16:42:01 IST 2023
+ 4 files changed, 23 insertions(+), 8 deletions(-)
+fatal: unable to access 'https://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git/': server certificate verification failed. CAfile: none CRLfile: none
+Error---Git push Failed.
+-e  -eDateandTime:2023-10-0616:42:01,-eHostname:sl3-5,-eIPAddress:127.0.0.1,-eCurrentUser:cs293labexam2,-eUptime:16:42:01up2days,19:14,2users,loadaverage:0.56,0.45,0.42,Linuxsl3-55.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 3c583cb] new commit-Fri Oct  6 16:45:01 IST 2023
+ 5 files changed, 18 insertions(+), 2 deletions(-)
+fatal: unable to access 'https://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git/': server certificate verification failed. CAfile: none CRLfile: none
+Error---Git push Failed.
+-e  -eDateandTime:2023-10-0616:45:01,-eHostname:sl3-5,-eIPAddress:127.0.0.1,-eCurrentUser:cs293labexam2,-eUptime:16:45:01up2days,19:17,2users,loadaverage:0.58,0.43,0.41,Linuxsl3-55.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main c1b7f5d] new commit-Fri Oct  6 16:48:01 IST 2023
+ 4 files changed, 13 insertions(+), 3 deletions(-)
+fatal: unable to access 'https://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git/': server certificate verification failed. CAfile: none CRLfile: none
+Error---Git push Failed.
+-e  -eDateandTime:2023-10-0616:48:01,-eHostname:sl3-5,-eIPAddress:127.0.0.1,-eCurrentUser:cs293labexam2,-eUptime:16:48:01up2days,19:20,2users,loadaverage:0.65,0.56,0.47,Linuxsl3-55.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main cd6303b] new commit-Fri Oct  6 16:51:01 IST 2023
+ 4 files changed, 10 insertions(+), 1 deletion(-)
+fatal: unable to access 'https://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git/': server certificate verification failed. CAfile: none CRLfile: none
+Error---Git push Failed.
+-e  -eDateandTime:2023-10-0616:51:01,-eHostname:sl3-5,-eIPAddress:127.0.0.1,-eCurrentUser:cs293labexam2,-eUptime:16:51:01up2days,19:23,2users,loadaverage:0.33,0.49,0.45,Linuxsl3-55.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main df749b8] new commit-Fri Oct  6 16:54:01 IST 2023
+ 3 files changed, 8 insertions(+), 1 deletion(-)
+fatal: unable to access 'https://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git/': server certificate verification failed. CAfile: none CRLfile: none
+Error---Git push Failed.
+-e  -eDateandTime:2023-10-0616:54:01,-eHostname:sl3-5,-eIPAddress:127.0.0.1,-eCurrentUser:cs293labexam2,-eUptime:16:54:01up2days,19:26,2users,loadaverage:0.36,0.47,0.45,Linuxsl3-55.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main fa4066b] new commit-Fri Oct  6 16:57:01 IST 2023
+ 3 files changed, 12 insertions(+), 1 deletion(-)
+fatal: unable to access 'https://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git/': server certificate verification failed. CAfile: none CRLfile: none
+Error---Git push Failed.
+-e  -eDateandTime:2023-10-0616:57:01,-eHostname:sl3-5,-eIPAddress:127.0.0.1,-eCurrentUser:cs293labexam2,-eUptime:16:57:01up2days,19:29,2users,loadaverage:0.08,0.30,0.38,Linuxsl3-55.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 46a4ae4] new commit-Fri Oct  6 17:00:02 IST 2023
+ 3 files changed, 8 insertions(+), 1 deletion(-)
+fatal: unable to access 'https://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git/': server certificate verification failed. CAfile: none CRLfile: none
+Error---Git push Failed.
+-e  -eDateandTime:2023-10-0617:00:02,-eHostname:sl3-5,-eIPAddress:127.0.0.1,-eCurrentUser:cs293labexam2,-eUptime:17:00:02up2days,19:32,2users,loadaverage:0.20,0.26,0.35,Linuxsl3-55.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main a6a35d8] new commit-Fri Oct  6 17:03:01 IST 2023
+ 3 files changed, 9 insertions(+), 1 deletion(-)
+fatal: unable to access 'https://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git/': server certificate verification failed. CAfile: none CRLfile: none
+Error---Git push Failed.
+-e  -eDateandTime:2023-10-0617:03:01,-eHostname:sl3-5,-eIPAddress:127.0.0.1,-eCurrentUser:cs293labexam2,-eUptime:17:03:01up2days,19:35,2users,loadaverage:0.26,0.29,0.35,Linuxsl3-55.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main dcf7f1c] new commit-Fri Oct  6 17:06:01 IST 2023
+ 2 files changed, 10 insertions(+)
+fatal: unable to access 'https://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git/': server certificate verification failed. CAfile: none CRLfile: none
+Error---Git push Failed.
+-e  -eDateandTime:2023-10-0617:06:01,-eHostname:sl3-5,-eIPAddress:127.0.0.1,-eCurrentUser:cs293labexam2,-eUptime:17:06:01up2days,19:38,2users,loadaverage:0.01,0.15,0.28,Linuxsl3-55.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  

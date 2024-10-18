@@ -1,0 +1,22 @@
+This exam has three problems
+
+Read the problem statements in the following files:
+1. q1/README
+2. q2/README
+3. q3/README
+
+Marking scheme
+--------------
+
+1. q1 4 marks
+2. q2 6 marks
+2. q3 10 marks
+
+
+Some guidelines
+---------------
+
+-- You must provide space and time efficient implementation.
+-- You should use test cases only for understanding the test
+   environment. They are no way exaustive in any sense.
+-- Do not include any new library.

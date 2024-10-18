@@ -1,0 +1,469 @@
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+Everything up-to-date
+Git push succeeded.
+-e  -eDateandTime:2023-09-2914:21:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:14:21:01up3days,20:24,1user,loadaverage:0.17,0.29,0.17,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 313c395] new commit-Fri Sep 29 14:24:01 IST 2023
+ 1 file changed, 8 insertions(+)
+ create mode 100644 auto-cmmit-sep29.log
+To http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git
+   57c672c..313c395  main -> main
+Git push succeeded.
+-e  -eDateandTime:2023-09-2914:24:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:14:24:01up3days,20:27,1user,loadaverage:0.27,0.31,0.19,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 57f2be5] new commit-Fri Sep 29 14:27:01 IST 2023
+ 1 file changed, 8 insertions(+)
+To http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git
+   313c395..57f2be5  main -> main
+Git push succeeded.
+-e  -eDateandTime:2023-09-2914:27:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:14:27:01up3days,20:30,1user,loadaverage:0.24,0.34,0.23,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 15c20b9] new commit-Fri Sep 29 14:30:01 IST 2023
+ 1 file changed, 7 insertions(+)
+To http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git
+   57f2be5..15c20b9  main -> main
+Git push succeeded.
+-e  -eDateandTime:2023-09-2914:30:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:14:30:01up3days,20:33,1user,loadaverage:0.30,0.31,0.23,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main abe4c3e] new commit-Fri Sep 29 14:33:01 IST 2023
+ 1 file changed, 7 insertions(+)
+fatal: unable to access 'http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git/': Failed to connect to proxy.cse.iitb.ac.in port 80 after 33321 ms: No route to host
+Error---Git push Failed.
+-e  -eDateandTime:2023-09-2914:33:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:14:33:01up3days,20:36,1user,loadaverage:0.56,0.44,0.30,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main c2fb408] new commit-Fri Sep 29 14:36:01 IST 2023
+ 1 file changed, 6 insertions(+)
+To http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git
+   abe4c3e..c2fb408  main -> main
+Git push succeeded.
+-e  -eDateandTime:2023-09-2914:36:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:14:36:01up3days,20:39,1user,loadaverage:0.84,0.68,0.42,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 43bb6af] new commit-Fri Sep 29 14:39:01 IST 2023
+ 1 file changed, 7 insertions(+)
+To http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git
+   c2fb408..43bb6af  main -> main
+Git push succeeded.
+-e  -eDateandTime:2023-09-2914:39:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:14:39:01up3days,20:42,1user,loadaverage:0.60,0.65,0.46,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 57f994a] new commit-Fri Sep 29 14:42:01 IST 2023
+ 1 file changed, 7 insertions(+)
+To http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git
+   43bb6af..57f994a  main -> main
+Git push succeeded.
+-e  -eDateandTime:2023-09-2914:42:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:14:42:01up3days,20:45,1user,loadaverage:0.10,0.43,0.41,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 80f6884] new commit-Fri Sep 29 14:45:01 IST 2023
+ 1 file changed, 7 insertions(+)
+To http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git
+   57f994a..80f6884  main -> main
+Git push succeeded.
+-e  -eDateandTime:2023-09-2914:45:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:14:45:01up3days,20:48,1user,loadaverage:0.22,0.42,0.41,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main aeddb65] new commit-Fri Sep 29 14:48:01 IST 2023
+ 1 file changed, 7 insertions(+)
+To http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git
+   80f6884..aeddb65  main -> main
+Git push succeeded.
+-e  -eDateandTime:2023-09-2914:48:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:14:48:01up3days,20:51,1user,loadaverage:0.28,0.30,0.36,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 6de1069] new commit-Fri Sep 29 14:51:01 IST 2023
+ 1 file changed, 7 insertions(+)
+To http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git
+   aeddb65..6de1069  main -> main
+Git push succeeded.
+-e  -eDateandTime:2023-09-2914:51:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:14:51:01up3days,20:54,1user,loadaverage:0.63,0.44,0.40,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 104b6d4] new commit-Fri Sep 29 14:54:01 IST 2023
+ 1 file changed, 7 insertions(+)
+To http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git
+   6de1069..104b6d4  main -> main
+Git push succeeded.
+-e  -eDateandTime:2023-09-2914:54:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:14:54:01up3days,20:57,1user,loadaverage:0.73,0.54,0.44,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main ed526e8] new commit-Fri Sep 29 14:57:01 IST 2023
+ 1 file changed, 7 insertions(+)
+To http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git
+   104b6d4..ed526e8  main -> main
+Git push succeeded.
+-e  -eDateandTime:2023-09-2914:57:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:14:57:01up3days,21:00,1user,loadaverage:1.01,0.69,0.52,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main af7f3fb] new commit-Fri Sep 29 15:00:01 IST 2023
+ 1 file changed, 7 insertions(+)
+To http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git
+   ed526e8..af7f3fb  main -> main
+Git push succeeded.
+-e  -eDateandTime:2023-09-2915:00:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:15:00:01up3days,21:03,1user,loadaverage:0.87,0.68,0.54,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 9618d80] new commit-Fri Sep 29 15:03:01 IST 2023
+ 5 files changed, 7 insertions(+)
+ delete mode 100644 lab08/comps/c1.txt
+ delete mode 100644 lab08/comps/c2.txt
+ delete mode 100644 lab08/decomps/d2.txt
+ delete mode 100644 lab08/decomps/d3.txt
+To http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git
+   af7f3fb..9618d80  main -> main
+Git push succeeded.
+-e  -eDateandTime:2023-09-2915:03:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:15:03:01up3days,21:06,1user,loadaverage:0.75,0.71,0.57,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main c59ac57] new commit-Fri Sep 29 15:06:01 IST 2023
+ 1 file changed, 11 insertions(+)
+To http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git
+   9618d80..c59ac57  main -> main
+Git push succeeded.
+-e  -eDateandTime:2023-09-2915:06:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:15:06:01up3days,21:09,1user,loadaverage:0.29,0.51,0.52,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 56b1bea] new commit-Fri Sep 29 15:09:01 IST 2023
+ 1 file changed, 7 insertions(+)
+To http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git
+   c59ac57..56b1bea  main -> main
+Git push succeeded.
+-e  -eDateandTime:2023-09-2915:09:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:15:09:01up3days,21:12,1user,loadaverage:0.36,0.42,0.47,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main a79dc8f] new commit-Fri Sep 29 15:12:01 IST 2023
+ 1 file changed, 7 insertions(+)
+To http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git
+   56b1bea..a79dc8f  main -> main
+Git push succeeded.
+-e  -eDateandTime:2023-09-2915:12:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:15:12:01up3days,21:15,1user,loadaverage:0.31,0.38,0.45,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 90e03c9] new commit-Fri Sep 29 15:15:01 IST 2023
+ 1 file changed, 7 insertions(+)
+To http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git
+   a79dc8f..90e03c9  main -> main
+Git push succeeded.
+-e  -eDateandTime:2023-09-2915:15:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:15:15:01up3days,21:18,1user,loadaverage:0.60,0.41,0.44,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 1f1cd57] new commit-Fri Sep 29 15:18:01 IST 2023
+ 1 file changed, 7 insertions(+)
+To http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git
+   90e03c9..1f1cd57  main -> main
+Git push succeeded.
+-e  -eDateandTime:2023-09-2915:18:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:15:18:01up3days,21:21,1user,loadaverage:0.44,0.49,0.47,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 1d838a7] new commit-Fri Sep 29 15:21:01 IST 2023
+ 1 file changed, 7 insertions(+)
+To http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git
+   1f1cd57..1d838a7  main -> main
+Git push succeeded.
+-e  -eDateandTime:2023-09-2915:21:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:15:21:01up3days,21:24,1user,loadaverage:0.46,0.55,0.50,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main ff57fa0] new commit-Fri Sep 29 15:24:01 IST 2023
+ 1 file changed, 7 insertions(+)
+To http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git
+   1d838a7..ff57fa0  main -> main
+Git push succeeded.
+-e  -eDateandTime:2023-09-2915:24:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:15:24:01up3days,21:27,1user,loadaverage:0.62,0.59,0.53,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 1e5b939] new commit-Fri Sep 29 15:27:01 IST 2023
+ 4 files changed, 95 insertions(+), 5 deletions(-)
+ delete mode 100644 lab08/decomps/d1.txt
+To http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git
+   ff57fa0..1e5b939  main -> main
+Git push succeeded.
+-e  -eDateandTime:2023-09-2915:27:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:15:27:01up3days,21:30,1user,loadaverage:0.78,0.68,0.57,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 14b0815] new commit-Fri Sep 29 15:30:01 IST 2023
+ 2 files changed, 10 insertions(+), 1 deletion(-)
+To http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git
+   1e5b939..14b0815  main -> main
+Git push succeeded.
+-e  -eDateandTime:2023-09-2915:30:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:15:30:01up3days,21:33,1user,loadaverage:0.33,0.61,0.57,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main c2d9709] new commit-Fri Sep 29 15:33:01 IST 2023
+ 2 files changed, 8 insertions(+), 1 deletion(-)
+To http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git
+   14b0815..c2d9709  main -> main
+Git push succeeded.
+-e  -eDateandTime:2023-09-2915:33:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:15:33:01up3days,21:36,1user,loadaverage:0.50,0.53,0.54,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 9fc1104] new commit-Fri Sep 29 15:36:01 IST 2023
+ 3 files changed, 9 insertions(+), 2 deletions(-)
+To http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git
+   c2d9709..9fc1104  main -> main
+Git push succeeded.
+-e  -eDateandTime:2023-09-2915:36:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:15:36:01up3days,21:39,1user,loadaverage:0.62,0.60,0.57,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main dcd6b2b] new commit-Fri Sep 29 15:39:01 IST 2023
+ 3 files changed, 13 insertions(+), 4 deletions(-)
+To http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git
+   9fc1104..dcd6b2b  main -> main
+Git push succeeded.
+-e  -eDateandTime:2023-09-2915:39:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:15:39:01up3days,21:42,1user,loadaverage:0.76,0.60,0.56,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 13fdbed] new commit-Fri Sep 29 15:42:01 IST 2023
+ 3 files changed, 9 insertions(+), 2 deletions(-)
+ delete mode 100644 lab08/comps/c3.txt
+To http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git
+   dcd6b2b..13fdbed  main -> main
+Git push succeeded.
+-e  -eDateandTime:2023-09-2915:42:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:15:42:01up3days,21:45,1user,loadaverage:0.92,0.64,0.58,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main c216f55] new commit-Fri Sep 29 15:45:01 IST 2023
+ 2 files changed, 13 insertions(+), 3 deletions(-)
+To http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git
+   13fdbed..c216f55  main -> main
+Git push succeeded.
+-e  -eDateandTime:2023-09-2915:45:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:15:45:01up3days,21:48,1user,loadaverage:0.54,0.56,0.55,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 39127b6] new commit-Fri Sep 29 15:48:01 IST 2023
+ 2 files changed, 9 insertions(+), 2 deletions(-)
+To http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git
+   c216f55..39127b6  main -> main
+Git push succeeded.
+-e  -eDateandTime:2023-09-2915:48:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:15:48:01up3days,21:51,1user,loadaverage:0.74,0.62,0.57,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 93bd035] new commit-Fri Sep 29 15:51:01 IST 2023
+ 2 files changed, 8 insertions(+), 1 deletion(-)
+To http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git
+   39127b6..93bd035  main -> main
+Git push succeeded.
+-e  -eDateandTime:2023-09-2915:51:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:15:51:01up3days,21:54,1user,loadaverage:0.47,0.60,0.57,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main eabf74a] new commit-Fri Sep 29 15:54:01 IST 2023
+ 2 files changed, 8 insertions(+)
+To http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git
+   93bd035..eabf74a  main -> main
+Git push succeeded.
+-e  -eDateandTime:2023-09-2915:54:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:15:54:01up3days,21:57,1user,loadaverage:0.97,0.78,0.65,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 5e9fefa] new commit-Fri Sep 29 15:57:01 IST 2023
+ 3 files changed, 10 insertions(+)
+To http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git
+   eabf74a..5e9fefa  main -> main
+Git push succeeded.
+-e  -eDateandTime:2023-09-2915:57:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:15:57:01up3days,22:00,1user,loadaverage:0.70,0.82,0.69,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 6151f25] new commit-Fri Sep 29 16:00:01 IST 2023
+ 3 files changed, 11 insertions(+), 4 deletions(-)
+To http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git
+   5e9fefa..6151f25  main -> main
+Git push succeeded.
+-e  -eDateandTime:2023-09-2916:00:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:16:00:01up3days,22:03,1user,loadaverage:0.32,0.63,0.64,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 9f9c6bb] new commit-Fri Sep 29 16:03:01 IST 2023
+ 2 files changed, 8 insertions(+), 1 deletion(-)
+To http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git
+   6151f25..9f9c6bb  main -> main
+Git push succeeded.
+-e  -eDateandTime:2023-09-2916:03:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:16:03:01up3days,22:06,1user,loadaverage:0.41,0.56,0.61,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main bb17308] new commit-Fri Sep 29 16:06:01 IST 2023
+ 3 files changed, 11 insertions(+), 4 deletions(-)
+To http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git
+   9f9c6bb..bb17308  main -> main
+Git push succeeded.
+-e  -eDateandTime:2023-09-2916:06:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:16:06:01up3days,22:09,1user,loadaverage:0.68,0.64,0.63,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main ac00fcb] new commit-Fri Sep 29 16:09:01 IST 2023
+ 2 files changed, 9 insertions(+), 1 deletion(-)
+To http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git
+   bb17308..ac00fcb  main -> main
+Git push succeeded.
+-e  -eDateandTime:2023-09-2916:09:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:16:09:01up3days,22:12,1user,loadaverage:0.30,0.60,0.63,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main b331f76] new commit-Fri Sep 29 16:12:01 IST 2023
+ 2 files changed, 16 insertions(+)
+To http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git
+   ac00fcb..b331f76  main -> main
+Git push succeeded.
+-e  -eDateandTime:2023-09-2916:12:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:16:12:01up3days,22:15,1user,loadaverage:1.34,0.86,0.72,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 9b64046] new commit-Fri Sep 29 16:15:02 IST 2023
+ 2 files changed, 12 insertions(+), 4 deletions(-)
+To http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git
+   b331f76..9b64046  main -> main
+Git push succeeded.
+-e  -eDateandTime:2023-09-2916:15:02,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:16:15:02up3days,22:18,1user,loadaverage:0.69,0.93,0.79,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 167db88] new commit-Fri Sep 29 16:18:01 IST 2023
+ 2 files changed, 12 insertions(+), 2 deletions(-)
+To http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git
+   9b64046..167db88  main -> main
+Git push succeeded.
+-e  -eDateandTime:2023-09-2916:18:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:16:18:01up3days,22:21,1user,loadaverage:0.98,0.99,0.84,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 4c5463b] new commit-Fri Sep 29 16:21:01 IST 2023
+ 2 files changed, 12 insertions(+), 2 deletions(-)
+To http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git
+   167db88..4c5463b  main -> main
+Git push succeeded.
+-e  -eDateandTime:2023-09-2916:21:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:16:21:01up3days,22:24,1user,loadaverage:0.84,0.88,0.82,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 510634e] new commit-Fri Sep 29 16:24:01 IST 2023
+ 2 files changed, 12 insertions(+), 4 deletions(-)
+To http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git
+   4c5463b..510634e  main -> main
+Git push succeeded.
+-e  -eDateandTime:2023-09-2916:24:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:16:24:01up3days,22:27,1user,loadaverage:0.76,0.82,0.81,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main fc42c78] new commit-Fri Sep 29 16:27:01 IST 2023
+ 2 files changed, 8 insertions(+), 1 deletion(-)
+To http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git
+   510634e..fc42c78  main -> main
+Git push succeeded.
+-e  -eDateandTime:2023-09-2916:27:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:16:27:01up3days,22:30,1user,loadaverage:0.25,0.59,0.72,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 29d4805] new commit-Fri Sep 29 16:30:01 IST 2023
+ 1 file changed, 7 insertions(+)
+To http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git
+   fc42c78..29d4805  main -> main
+Git push succeeded.
+-e  -eDateandTime:2023-09-2916:30:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:16:30:01up3days,22:33,1user,loadaverage:0.02,0.34,0.60,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main b46f1d2] new commit-Fri Sep 29 16:33:01 IST 2023
+ 2 files changed, 8 insertions(+), 1 deletion(-)
+To http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git
+   29d4805..b46f1d2  main -> main
+Git push succeeded.
+-e  -eDateandTime:2023-09-2916:33:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:16:33:01up3days,22:36,1user,loadaverage:0.59,0.52,0.63,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main cebc612] new commit-Fri Sep 29 16:36:01 IST 2023
+ 2 files changed, 12 insertions(+), 1 deletion(-)
+To http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git
+   b46f1d2..cebc612  main -> main
+Git push succeeded.
+-e  -eDateandTime:2023-09-2916:36:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:16:36:01up3days,22:39,1user,loadaverage:0.77,0.72,0.70,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main ed49761] new commit-Fri Sep 29 16:39:01 IST 2023
+ 2 files changed, 11 insertions(+), 2 deletions(-)
+To http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git
+   cebc612..ed49761  main -> main
+Git push succeeded.
+-e  -eDateandTime:2023-09-2916:39:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:16:39:01up3days,22:42,1user,loadaverage:1.51,0.89,0.76,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 1303b5d] new commit-Fri Sep 29 16:42:01 IST 2023
+ 2 files changed, 12 insertions(+), 3 deletions(-)
+To http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git
+   ed49761..1303b5d  main -> main
+Git push succeeded.
+-e  -eDateandTime:2023-09-2916:42:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:16:42:01up3days,22:45,1user,loadaverage:0.38,0.68,0.70,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main a136a63] new commit-Fri Sep 29 16:45:01 IST 2023
+ 1 file changed, 7 insertions(+)
+To http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git
+   1303b5d..a136a63  main -> main
+Git push succeeded.
+-e  -eDateandTime:2023-09-2916:45:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:16:45:01up3days,22:48,1user,loadaverage:0.24,0.51,0.63,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 7f313e1] new commit-Fri Sep 29 16:48:01 IST 2023
+ 2 files changed, 11 insertions(+), 4 deletions(-)
+To http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git
+   a136a63..7f313e1  main -> main
+Git push succeeded.
+-e  -eDateandTime:2023-09-2916:48:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:16:48:01up3days,22:51,1user,loadaverage:0.26,0.39,0.56,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 01f9991] new commit-Fri Sep 29 16:51:01 IST 2023
+ 2 files changed, 8 insertions(+), 1 deletion(-)
+To http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git
+   7f313e1..01f9991  main -> main
+Git push succeeded.
+-e  -eDateandTime:2023-09-2916:51:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:16:51:01up3days,22:54,1user,loadaverage:0.36,0.34,0.51,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main ca46027] new commit-Fri Sep 29 16:54:01 IST 2023
+ 2 files changed, 9 insertions(+), 2 deletions(-)
+To http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git
+   01f9991..ca46027  main -> main
+Git push succeeded.
+-e  -eDateandTime:2023-09-2916:54:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:16:54:01up3days,22:57,1user,loadaverage:0.86,0.51,0.54,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 570ae20] new commit-Fri Sep 29 16:57:01 IST 2023
+ 2 files changed, 10 insertions(+), 3 deletions(-)
+To http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git
+   ca46027..570ae20  main -> main
+Git push succeeded.
+-e  -eDateandTime:2023-09-2916:57:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:16:57:01up3days,23:00,1user,loadaverage:0.49,0.53,0.54,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main a174e41] new commit-Fri Sep 29 17:00:01 IST 2023
+ 2 files changed, 9 insertions(+), 1 deletion(-)
+To http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git
+   570ae20..a174e41  main -> main
+Git push succeeded.
+-e  -eDateandTime:2023-09-2917:00:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:17:00:01up3days,23:03,1user,loadaverage:0.80,0.64,0.58,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 2783752] new commit-Fri Sep 29 17:03:01 IST 2023
+ 2 files changed, 10 insertions(+), 1 deletion(-)
+To http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git
+   a174e41..2783752  main -> main
+Git push succeeded.
+-e  -eDateandTime:2023-09-2917:03:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:17:03:01up3days,23:06,1user,loadaverage:0.47,0.55,0.55,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main e7e5bf1] new commit-Fri Sep 29 17:06:01 IST 2023
+ 2 files changed, 11 insertions(+), 1 deletion(-)
+To http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git
+   2783752..e7e5bf1  main -> main
+Git push succeeded.
+-e  -eDateandTime:2023-09-2917:06:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:17:06:01up3days,23:09,1user,loadaverage:0.95,0.67,0.59,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 9a91a48] new commit-Fri Sep 29 17:09:01 IST 2023
+ 3 files changed, 12 insertions(+), 3 deletions(-)
+To http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git
+   e7e5bf1..9a91a48  main -> main
+Git push succeeded.
+-e  -eDateandTime:2023-09-2917:09:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:17:09:01up3days,23:12,1user,loadaverage:1.08,0.81,0.66,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main a63b22d] new commit-Fri Sep 29 17:12:01 IST 2023
+ 3 files changed, 10 insertions(+), 3 deletions(-)
+To http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git
+   9a91a48..a63b22d  main -> main
+Git push succeeded.
+-e  -eDateandTime:2023-09-2917:12:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:17:12:01up3days,23:15,1user,loadaverage:1.15,0.90,0.72,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main ff4fa23] new commit-Fri Sep 29 17:15:01 IST 2023
+ 2 files changed, 11 insertions(+), 1 deletion(-)
+To http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git
+   a63b22d..ff4fa23  main -> main
+Git push succeeded.
+-e  -eDateandTime:2023-09-2917:15:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:17:15:01up3days,23:18,1user,loadaverage:0.89,0.83,0.72,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main d278728] new commit-Fri Sep 29 17:18:01 IST 2023
+ 2 files changed, 11 insertions(+), 2 deletions(-)
+To http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git
+   ff4fa23..d278728  main -> main
+Git push succeeded.
+-e  -eDateandTime:2023-09-2917:18:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:17:18:01up3days,23:21,1user,loadaverage:1.55,1.15,0.87,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 7c161e5] new commit-Fri Sep 29 17:21:01 IST 2023
+ 2 files changed, 9 insertions(+), 1 deletion(-)
+To http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git
+   d278728..7c161e5  main -> main
+Git push succeeded.
+-e  -eDateandTime:2023-09-2917:21:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:17:21:01up3days,23:24,1user,loadaverage:1.35,1.20,0.94,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 939ba9f] new commit-Fri Sep 29 17:24:01 IST 2023
+ 3 files changed, 12 insertions(+), 5 deletions(-)
+To http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git
+   7c161e5..939ba9f  main -> main
+Git push succeeded.
+-e  -eDateandTime:2023-09-2917:24:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:17:24:01up3days,23:27,1user,loadaverage:1.49,1.36,1.05,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 7825c36] new commit-Fri Sep 29 17:27:01 IST 2023
+ 1 file changed, 7 insertions(+)
+To http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git
+   939ba9f..7825c36  main -> main
+Git push succeeded.
+-e  -eDateandTime:2023-09-2917:27:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:17:27:01up3days,23:30,1user,loadaverage:0.37,0.87,0.91,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main 3da4e6b] new commit-Fri Sep 29 17:30:01 IST 2023
+ 1 file changed, 7 insertions(+)
+To http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git
+   7825c36..3da4e6b  main -> main
+Git push succeeded.
+-e  -eDateandTime:2023-09-2917:30:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:17:30:01up3days,23:33,1user,loadaverage:0.54,0.75,0.86,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main a5fc767] new commit-Fri Sep 29 17:33:01 IST 2023
+ 1 file changed, 7 insertions(+)
+To http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git
+   3da4e6b..a5fc767  main -> main
+Git push succeeded.
+-e  -eDateandTime:2023-09-2917:33:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:17:33:01up3days,23:36,1user,loadaverage:0.03,0.41,0.71,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
+[main d9556ee] new commit-Fri Sep 29 17:36:01 IST 2023
+ 1 file changed, 7 insertions(+)
+To http://cs293-git.cse.iitb.ac.in/sakshamrathi/cs293-lab.git
+   a5fc767..d9556ee  main -> main
+Git push succeeded.
+-e  -eDateandTime:2023-09-2917:36:01,-eHostname:sl2-23,-eIPAddress:127.0.0.1,-eCurrentUser:labuser,-eUptime:17:36:01up3days,23:39,1user,loadaverage:0.04,0.25,0.58,Linuxsl2-235.15.0-75-generic#82-UbuntuSMPTueJun623:10:23UTC2023x86_64x86_64x86_64GNU/Linux  2
+  
